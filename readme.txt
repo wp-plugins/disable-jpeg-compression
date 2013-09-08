@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: XxXYonIXxX
-Donate link: http://www.scolpy.net
+Donate link: http://www.scolpy.net/
 Tags: jpeg, jpg, compression, disable
 Requires at least: 3.3.1
 Tested up to: 3.6
@@ -12,7 +12,7 @@ Disable the JPEG compression in WordPress, which enabled by default.
 
 == Description ==
 
-For those of you that don't know, WordPress automatically compresses JPEG images of every uploaded .jpg images to 90% of the original size.
+For those of you that don't know, WordPress automatically compress every uploaded .jpg images to 90% of their original size.
 That mean you lose 10% for every .jpg image you upload to WordPress. that's really big issue in this days, which high quality images are required.
 
 So this plugin is simply disable the JPEG compression in WordPress(so the quality is 100%).
