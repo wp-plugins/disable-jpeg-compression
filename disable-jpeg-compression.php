@@ -3,7 +3,7 @@
 Plugin Name: Disable JPEG Compression
 Plugin URI:
 Description: Disable the JPEG compression in WordPress, which enabled by default.
-Version: 1.4
+Version: 1.5
 Author: Yonatan Ganot
 Author URI: http://www.scolpy.net
 */
